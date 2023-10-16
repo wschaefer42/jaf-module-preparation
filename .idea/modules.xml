@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/classes-and-objects/classes-and-objects.iml" filepath="$PROJECT_DIR$/classes-and-objects/classes-and-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condition-and-loops/condition-and-loops.iml" filepath="$PROJECT_DIR$/condition-and-loops/condition-and-loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/jbang-demo/jbang-demo.iml" filepath="$PROJECT_DIR$/jbang-demo/jbang-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-preparation.iml" filepath="$PROJECT_DIR$/module-preparation.iml" />
     </modules>

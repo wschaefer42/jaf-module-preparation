@@ -6,7 +6,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/javafx-demo" />
-        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.3/libexec" />
+        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.4/libexec" />
+        <option name="gradleJvm" value="openjdk-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/javafx-demo" />
@@ -16,7 +17,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/javafx-gradle" />
-        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.3/libexec" />
+        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.4/libexec" />
+        <option name="gradleJvm" value="temurin-19" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/javafx-gradle" />
